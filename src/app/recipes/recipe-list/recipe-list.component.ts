@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'This is simply a test',
       'https://www.telegraph.co.uk/content/dam/food-and-drink/2019/01/11/TELEMMGLPICT000185036503_trans_NvBQzQNjv4Bq8m3xuhMyFOjUOkuEnTdW-M-bhHwB87o-r13mliye62g.jpeg?imwidth=1400'
     ),
+    new Recipe(
+      'A Test Recipe',
+      'This is simply a test',
+      'https://www.telegraph.co.uk/content/dam/food-and-drink/2019/01/11/TELEMMGLPICT000185036503_trans_NvBQzQNjv4Bq8m3xuhMyFOjUOkuEnTdW-M-bhHwB87o-r13mliye62g.jpeg?imwidth=1400'
+    ),
   ];
   constructor() {}
 
